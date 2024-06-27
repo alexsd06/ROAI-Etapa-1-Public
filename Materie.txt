@@ -1,7 +1,7 @@
 matplotlib: 
 scatter - Used with points | grafic de tip Diagramă cu puncte (Scatter Chart)
 hist()
-plot(label="Sin")
+plot(label="Sin") [works on list of points]
 bar
 imshow - generates heatmaps and other things like that (hot, seismic)
 legend
@@ -171,6 +171,7 @@ dataiter=iter(dataloader) | enumerate(dataloader)
 data=data.next()
 data, label=data
 composed=torchvision.transforms.Compose([list of transforms])
+nn.NLLLoss()
 
 
 Softmax - returns probability between 0 and 1
@@ -198,6 +199,9 @@ ReLU - THE BEST for Hidden Layers
 Leaky ReLU - Solves Gradient Vanishing Problem of ReLU: if x<0 relu returns 0 and never learns because gradients are 0
 Softmax - Last layer of multiclass problems
 torch.nn.functional has more functions than nn
+https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
+https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
+https://pytorch.org/docs/stable/generated/torch.nn.GRU.html
 
 
 

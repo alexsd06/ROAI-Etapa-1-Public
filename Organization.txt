@@ -20,5 +20,14 @@ Nitro NLP: Natural Language Processing
 #Jumping over: Nitro NLP: Python & Data Visualization
 # Watch later: Nitro NLP: Artificial Intelligence and Us
 Nitro NLP: Transfer Learning & Transformers
-https://www.youtube.com/watch?v=9L9jEOwRrCg&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=17&pp=iAQB
+https://www.youtube.com/watch?v=81NJgoR5RfY&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&index=22 #DONE
 #Jumping over episode 18
+
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks#architecture
+https://github.com/patrickloeber
+https://github.com/patrickloeber/pytorch-examples
+https://github.com/patrickloeber/pytorchTutorial
+https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
+https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
+https://pytorch.org/docs/stable/generated/torch.nn.GRU.html
